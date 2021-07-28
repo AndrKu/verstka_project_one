@@ -1,0 +1,50 @@
+.wrapper-serv {
+     max-width: 1600px;
+     height: 100vh;
+     background: url(/img/serv-banner.png) no-repeat center;
+     background-size: cover;
+     position: relative;
+     margin: 0 auto;
+    
+    }
+
+.content-serv {
+     max-width: 1400px;
+     
+	 background-color: #FAFAF2;
+	 margin: 0 auto 120px;
+
+}  
+.content-serv_item {
+      max-width: 700px;
+      height: auto;
+     }     
+
+
+.content-serv_item img {
+      height: auto;
+      width: 100%;
+      max-width: 690px;
+      display: block;
+
+}
+
+.content-serv2, .content-serv3 {
+     max-width: 1400px;
+     margin: 0 auto;
+     margin-bottom: 100px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+}
+
+.content-serv1 {
+    max-width: 1400px;
+    
+     margin: 0 auto;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+}
